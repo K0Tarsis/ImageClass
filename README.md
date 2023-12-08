@@ -1,7 +1,11 @@
-first need download clip model 
-git lfs install
-git clone https://huggingface.co/openai/clip-vit-large-patch14
+first need download clip model   
 
-then pip install -r requirements.txt
+git lfs install 
+
+git clone https://huggingface.co/openai/clip-vit-large-patch14 
+
+then 
+
+pip install -r requirements.txt
 
 and run main.py
